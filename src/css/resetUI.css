@@ -1,0 +1,84 @@
+.signconfirm .signbtm .signbtn{
+  width: 3.2rem;
+  height: .8rem;
+  text-align: center;
+  font-size: .3rem;
+  line-height: .8rem;
+  color: #fff!important;
+  margin: 0;
+  background: #ffaa46!important;
+}
+.signconfirm .signbtm .signbtn1{
+  background: #ff4691!important;
+  margin-left: .32rem;
+}
+.writeComment1{
+  width: 7.02rem;
+  height: .54rem;
+  padding: .16rem 0;
+  margin: 0 auto;
+  font-size: .24rem;
+  color:#555;
+}
+.writeComment1 .send{
+  float: left;
+  width: 12.5%;
+  height: .54rem;
+  line-height: .54rem;
+  text-align: center;
+  color:#53a6dc;
+  float: left;
+}
+.writeComment1 input{
+  float: left;
+  width: 87.5%;
+  border-radius: 14px;
+  background:#F1F1F1;
+  padding-left:30rpx;
+  box-sizing:border-box;
+}
+/* 回复样式 */
+.child-content{
+  overflow:hidden;
+  background: #F6F6F6;
+  padding:10rpx 24rpx;
+  font-size: 28rpx;
+  border-radius: 10rpx;
+}
+.child-content div{
+  clear: both;
+}
+.child-content .child-name{
+  float: left;
+  color: #3F6BA6;
+}
+.child-text{
+  float: left;
+  color: #666;
+}
+.inputBox .input{
+  padding: 0;
+  color: #333333;
+  margin: 7rpx 0 20rpx;
+  border-bottom:1px solid #DDDDDD;
+}
+.inputBox .input1{
+  width: 440rpx;
+}
+.inputBox .button1{
+  width: 180rpx;
+  height: 72rpx;
+  line-height: 72rpx;
+  position: absolute;
+  right: 0;
+  bottom:20rpx;
+  border: #FF4691 1rpx solid!important;
+  color: #FF4691!important;
+  border-radius: 6rpx!important;
+  background: #fff!important;
+  margin: 0;
+}
+.inputBox .button1.button2{
+  border: #ccc 1rpx solid!important;
+  color: #ccc!important;
+}
