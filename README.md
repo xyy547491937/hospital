@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mall
 
 > A Mpvue project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# hospital
+1
+>>>>>>> 28c70ee91fc64c0e24d85181af3cdd7c5e7c7dfb
